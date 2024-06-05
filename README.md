@@ -13,7 +13,7 @@ Feel free to explore my repositories and projects. I'm always open to collaborat
 - **LinkedIn**: [Anjan Gurung](https://www.linkedin.com/in/anjan-gurung-b1a18a285)
 
 
-Stay curious and keep learning!
+Let's keep the spirit of curiosity alive and continue learning together! 🚀
 
 <!---
 AnjanGurz/AnjanGurz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
