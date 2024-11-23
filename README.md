@@ -1,15 +1,24 @@
-# 👋 Hello, I'm Anjan!
+# Hello, World! 🌌  
 
-Welcome to my GitHub profile! I’m a **passionate programming student** on a journey to become a skilled full-stack developer, driven by curiosity and resilience. Here’s a bit about me:
+I’m **Anjan**, a night owl with an endless curiosity for coding and learning. As a **Computer Programming student**, I spend my late hours diving into **full-stack development**, solving problems, and dreaming big about building impactful software solutions.  
 
-- 🌟 **Eager Learner**: I’m building expertise in JavaScript, the MERN stack, and data structures, embracing every opportunity to expand my skills.
-- 🚀 **Current Focus**: Immersed in full-stack development, I’m exploring front-end and back-end technologies to create web solutions that make a positive impact.
-- 📚 **Life Philosophy**: A **lifelong learner** at heart, I believe every challenge brings a chance to grow and innovate.
+## 🌟 Who Am I?  
+- A **lifelong learner** fueled by passion and determination.  
+- A student pursuing a diploma in **Computer Programming** in Canada, but my real classroom is the quiet nights where my ideas come alive.  
+- Someone who believes every line of code written today is a step toward becoming a better version of myself tomorrow.  
 
-Feel free to explore my projects, and let’s connect to learn and build together!
+## 💻 What I’m Working On  
+- Exploring the **MERN stack** and **TypeScript** to master modern web development.  
+- Building strong foundations in **data structures and algorithms** with Java and JavaScript.  
+- Experimenting with projects to challenge myself and bring my ideas to life.  
 
-### Let's Connect!
-- **Email**: anjangurz@gmail.com
-- **LinkedIn**: [Anjan Gurung](https://www.linkedin.com/in/anjan-gurung-b1a18a285)
+## 🚀 My Goals  
+- Strengthen my skills in full-stack development 
+- Evolve into a skilled software developer and cybersecurity enthusiast who thrives on solving complex problems.  
 
-Let's keep pushing boundaries and coding toward a better future! 🚀
+## 🌙 My Learning Philosophy  
+- **Fail fast, learn faster.**  
+- **Stay curious.** There’s always something new to discover.  
+- **Keep growing.** Even small steps lead to big transformations.  
+
+Feel free to explore my repositories—each one reflects my late-night adventures and my journey of growth. Let’s connect, collaborate, and create something amazing together!  
