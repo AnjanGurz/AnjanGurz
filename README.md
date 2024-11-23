@@ -9,12 +9,12 @@ I’m **Anjan**, a night owl with an endless curiosity for coding and learning. 
 
 ## 💻 What I’m Working On  
 - Exploring the **MERN stack** and **TypeScript** to master modern web development.  
-- Building strong foundations in **data structures and algorithms** with Java and JavaScript.  
+- Building strong foundations in **data structures and algorithms** with Java.  
 - Experimenting with projects to challenge myself and bring my ideas to life.  
 
 ## 🚀 My Goals  
 - Strengthen my skills in full-stack development 
-- Evolve into a skilled software developer and cybersecurity enthusiast who thrives on solving complex problems.  
+- Evolve into a skilled software developer who thrives on solving complex problems.  
 
 ## 🌙 My Learning Philosophy  
 - **Fail fast, learn faster.**  
