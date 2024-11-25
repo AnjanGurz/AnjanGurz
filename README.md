@@ -1,24 +1,19 @@
-# Hello, World! 🌌  
+# Hello, World! 🌌
 
-I’m **Anjan**, a night owl with an endless curiosity for coding and learning. As a **Computer Programming student**, I spend my late hours diving into **full-stack development**, solving problems, and dreaming big about building impactful software solutions.  
+I’m **Anjan**, a **Computer Programming** student passionate about coding. I spend my late hours exploring **full-stack development**, **MERN stack**, **TypeScript**, and strengthening my **Java** skills in data structures and algorithms.
 
-## 🌟 Who Am I?  
-- A **lifelong learner** fueled by passion and determination.  
-- A student pursuing a diploma in **Computer Programming** in Canada, but my real classroom is the quiet nights where my ideas come alive.  
-- Someone who believes every line of code written today is a step toward becoming a better version of myself tomorrow.  
+## What I’m Working On:
+- Mastering **MERN stack** & **TypeScript**
+- Building projects to challenge myself and grow
+- Improving my problem-solving skills
 
-## 💻 What I’m Working On  
-- Exploring the **MERN stack** and **TypeScript** to master modern web development.  
-- Building strong foundations in **data structures and algorithms** with Java.  
-- Experimenting with projects to challenge myself and bring my ideas to life.  
+## Goals:
+- Become a skilled full-stack developer
+- Solve complex problems and create impactful software
 
-## 🚀 My Goals  
-- Strengthen my skills in full-stack development 
-- Evolve into a skilled software developer who thrives on solving complex problems.  
+## Learning Philosophy:
+- **Fail fast, learn faster** – Embrace mistakes as stepping stones to growth.
+- **Stay curious** – Keep exploring, because there's always something new to discover.
+- **Keep growing** – Every step, no matter how small, leads to progress.
 
-## 🌙 My Learning Philosophy  
-- **Fail fast, learn faster.**  
-- **Stay curious.** There’s always something new to discover.  
-- **Keep growing.** Even small steps lead to big transformations.  
-
-Feel free to explore my repositories—each one reflects my late-night adventures and my journey of growth. Let’s connect, collaborate, and create something amazing together!  
+Let’s connect and create something amazing!
